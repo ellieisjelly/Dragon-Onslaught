@@ -1,5 +1,13 @@
 {
   "type": "dragononslaught:dragon_onslaught",
+  "description": [
+    {
+      "translate": "gameType.dragononslaught.dragon_onslaught.desc1"
+    },
+    {
+      "translate": "gameType.dragononslaught.dragon_onslaught.desc2"
+    }
+  ],
   "map": {
     "id": "dragononslaught:birdie_beach",
     "sea_level": 64

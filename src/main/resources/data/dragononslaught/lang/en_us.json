@@ -4,6 +4,8 @@
 	"game.dragononslaught.divided_dragon_onslaught_2_teams": "Dragon Onslaught: Divided: 2 Teams",
 	"game.dragononslaught.divided_dragon_onslaught_4_teams": "Dragon Onslaught: Divided: 4 Teams",
 	"gameType.dragononslaught.dragon_onslaught": "Dragon Onslaught",
+	"gameType.dragononslaught.dragon_onslaught.desc1": "Avoid water and survive dragons that",
+	"gameType.dragononslaught.dragon_onslaught.desc2": "kill you. Use sparklers to attract them.",
 	"item.dragononslaught.leap_feather": "Leap Feather",
 	"item.dragononslaught.sparkler": "Sparkler",
 	"text.dragononslaught.eliminated": "%s has been eliminated!",
